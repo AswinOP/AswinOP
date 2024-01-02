@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Aswin!;A+Passionate+Developer+from+INDIA!&center=true&width=380&height=55">
 </p>
 
-### AswinOP
-**`iSnowFlakes`**
+### Aswin OP
+**`Digital Content Creator & Developer`**
 
 👋 Hello, fellow developers and tech enthusiasts! Welcome to my GitHub profile!
 
 I'm Aswin, a passionate individual driven by the love for building Android custom ROMs. I believe in the power of customization and creating unique experiences for users. You'll often find me diving deep into the world of Android development, exploring new possibilities, and pushing the boundaries of what can be achieved on mobile devices.
 
-As an avid user of Veux/Peux aka Redmi Note 11 Pro+ 5G, my primary device, I've taken it upon myself to craft custom ROMs tailored specifically to enhance their performance and unlock their true potential. Through my work, I strive to deliver an exceptional user experience by combining stability, innovation, and cutting-edge features.
+As an avid user of Veux/Peux aka Poco X4 Pro 5G, my primary device, I've taken it upon myself to craft custom ROMs tailored specifically to enhance their performance and unlock their true potential. Through my work, I strive to deliver an exceptional user experience by combining stability, innovation, and cutting-edge features.
 
 With each project, I aim to contribute to the Android community by sharing my knowledge, insights, and code. Collaborating with like-minded individuals and teams fuels my creativity and allows me to continually evolve as a developer.
 
@@ -26,6 +26,11 @@ Happy coding and customization! 🚀
     <a href="https://t.me/iaswinop">
         <img src="https://custom-icon-badges.demolab.com/badge/AswinOP-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
+      <a href="https://www.youtube.com/@aswinop">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUPmlXp1Mb_KMbDkkbqRfUg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@aswinop">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCUPmlXp1Mb_KMbDkkbqRfUg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+   </p>
   </a>
 </a>
 
@@ -63,7 +68,8 @@ You Can Sponsor Me By Donating Some Amount.
     <a href="https://www.buymeacoffee.com/aswinop">
         <img src="https://custom-icon-badges.demolab.com/badge/AswinOP-ffff00?style=for-the-badge&logo=coffee-meow">
     </a>
+    ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
   </a>
 </a>
 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
