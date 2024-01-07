@@ -1,8 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Welcome+to+my+Profile!;I'm+Aswin!;A+Passionate+Developer+from+INDIA!&center=true&width=380&height=55">
 </p>
 
-### Aswin OP
+### Aswin OP aka ֆຖ❆ຟ
 **`Digital Content Creator & Developer`**
 
 👋 Hello, fellow developers and tech enthusiasts! Welcome to my GitHub profile!
