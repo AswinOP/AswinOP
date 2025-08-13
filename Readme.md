@@ -11,7 +11,7 @@
 
   <!-- What I Do -->
   <pre>
-    💼 Assistant System Engineer Trainee @ TCS
+    💼 Design Engineer @ TCS-Rolls Royce Aerospace
     🎓 BTech in Mechanical Engineering @ SMVEC
     💻 Open Source Enthusiast • Custom ROM Maintainer
     🎮 Music • Games • Anime • Code
